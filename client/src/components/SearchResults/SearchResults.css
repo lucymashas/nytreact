@@ -1,0 +1,21 @@
+h3 {
+  font-size: 1.2rem;
+  color: #495d94;
+}
+p{
+  margin: 5px;
+}
+.outline {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.savebtn{
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
